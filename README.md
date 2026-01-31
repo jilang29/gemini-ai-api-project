@@ -1,6 +1,6 @@
 🚀 Cara Menjalankan Project
 1️⃣ Clone Repository
-git clone https://github.com/jilang29/gemini-ai-api-project
+git clone https://github.com/jilang29/gemini-ai-api-project.git
 
 2️⃣ Masuk ke Folder Project
 cd gemini-ai-api-project
