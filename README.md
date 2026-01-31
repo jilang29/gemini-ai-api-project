@@ -41,6 +41,4 @@ gemini-ai-api-project/
 Pastikan API Key tidak dipublikasikan secara publik
 Repository ini telah memenuhi instruksi pengumpulan melalui GitHub
 
-👤 Author
-
-Nama: Jilang Ramadhani
+👤 Author : Jilang Ramadhani
